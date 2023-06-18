@@ -1,3 +1,3 @@
 # API-RESTful-AdonisJS
 
-teste
+` node ace serve --watch`
